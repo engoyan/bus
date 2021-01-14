@@ -20,7 +20,7 @@ const blinkLed = _ => {
     });
   });
 
-  setTimeout(blinkLed, 200);
+  setTimeout(blinkLed, 2000);
 };
 
 blinkLed();
